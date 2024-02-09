@@ -10,4 +10,3 @@ Through a comprehensive course on Kotlin programming and Compose UI offered by G
 
 - **Business Card App**: Developed a fully functional Android application that serves as a digital business card. This project marked my entry into the world of app development and showcased my proficiency in utilizing Kotlin and Compose UI to create impactful user experiences.
 
-- 
